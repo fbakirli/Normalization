@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project provides an SQL script designed to demonstrate and implement database normalization concepts. The script performs the process of normalizing a database from Unnormalized Form to Third Normal Form basde on a sample dataset. It includes creating, modifying, and managing tables to establish normalized relationships among entities, which are books, authors, publishers, and courses.
+This project provides an SQL script designed to demonstrate and implement database normalization concepts. The script performs the process of normalizing a database from Unnormalized Form to Third Normal Form based on a sample dataset. It includes creating, modifying, and managing tables to establish normalized relationships among entities, which are books, authors, publishers, and courses.
 
 ## Table of Contents
 
